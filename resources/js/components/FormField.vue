@@ -166,6 +166,7 @@ export default {
 
 <style>
 .ql-editor p {
+  margin-top: 0px!important;
   font-size: 18px;
 }
 .ql-video {
